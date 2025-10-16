@@ -1,3 +1,5 @@
+<img width="1441" height="744" alt="image" src="https://github.com/user-attachments/assets/713a07c1-a30e-4e5d-bfe7-19d705492e4d" />
+
 # 🚨 SOS App
 
 The **SOS App** is a simple yet powerful Android application designed to help users quickly send emergency alerts to predefined contacts. Built using **Java** and **XML** in **Android Studio**, this app prioritizes speed, accessibility, and reliability in critical situations.
