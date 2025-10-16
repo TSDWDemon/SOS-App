@@ -57,43 +57,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 📄 License
 This project is licensed under the MIT License.
 
-# 🚨 SOS App
 
-The **SOS App** is a simple yet powerful Android application designed to help users quickly send emergency alerts to predefined contacts. Built using **Java** and **XML** in **Android Studio**, this app prioritizes speed, accessibility, and reliability in critical situations.
-
----
-
-## 📱 Features
-
-- ✅ One-tap SOS alert button  
-- 📍 Sends SMS with real-time location to emergency contacts  
-- 📡 Accesses GPS for accurate positioning  
-- 📴 Works offline using SMS-based alerts  
-- 🎨 Clean and intuitive user interface  
-
----
-
-## 🛠️ Tech Stack
-
-| Component     | Details                     |
-|---------------|-----------------------------|
-| Language      | Java                        |
-| UI Design     | XML                         |
-| IDE           | Android Studio              |
-| APIs Used     | Google Location Services, SMS Manager |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Android Studio installed  
-- Android device or emulator  
-- SMS and location permissions enabled  
-
-### Installation Steps
-
-```bash
-git clone https://github.com/yourusername/SOS-App.git
 
